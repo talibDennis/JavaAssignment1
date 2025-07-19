@@ -18,4 +18,3 @@ Activity Steps
   - Ch.4: Exercise: _____ (Available 4.17-4.26, 4.30-4.34, 4.36-4.40) (choose 7 at least 1 code question!)
 - Next, ensure that your most recent changes are committed and pushed to your GitHub repo.
 - Send your instructor the link to your GitHub repository (https://github.com/username/JavaAssignment1.git) via Microsoft Teams direct message.
-<img width="516" height="607" alt="image" src="https://github.com/user-attachments/assets/79ea5af4-9da7-40bc-9cae-9bc182373dd9" />
