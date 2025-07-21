@@ -1,13 +1,12 @@
-package Ex215;
 
-public class Ex215 {
+public class Comparison {
   private int num1;
   private int num2;
 
-  public Ex215(int num1, int num2) {
+  public Comparison(int num1, int num2) {
     this.num1 = num1;
     this.num2 = num2;
-  } // constructor
+  }
 
   public int getNum1() {
     return this.num1;
