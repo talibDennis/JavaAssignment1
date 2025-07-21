@@ -1,4 +1,6 @@
-package Xcode;
+// 'package Xcode;' is code automatically injected if I create a java file within a folder that's in another folder
+// leaving this line of code brakes the program
+// I deleted it and ran fine, will find out more about this later
 
 public class Sample {
   private int num1;

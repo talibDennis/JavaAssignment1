@@ -1,4 +1,3 @@
-package Xcode;
 
 import java.util.Scanner;
 
