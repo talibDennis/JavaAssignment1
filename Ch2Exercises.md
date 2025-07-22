@@ -10,9 +10,9 @@
   - A location in the computer’s memory that may contain different values at various times throughout the execution of a program is called a(n)                .
 
 - ***2.14*** Write an application that displays the numbers 1 to 4 on the same line, with each pair of adjacent numbers separated by one space. Use the following techniques:
-  - Use one System.out.println statement.
-  - Use four System.out.print statements.
-  - Use one System.out.printf statement.
+  - a. Use one System.out.println statement.
+  - b. Use four System.out.print statements.
+  - c. Use one System.out.printf statement.
 - ***2.15*** (Arithmetic) Write an application that asks the user to enter two integers, obtains them from the user and prints their sum, product, difference and quotient (division). Use the techniques shown in Fig. 2.7.
 - ***2.16*** (Comparing Integers) Write an application that asks the user to enter two integers, obtains them from the user and displays the larger number followed by the words "is larger". If the numbers are equal, print the message "These numbers are equal". Use the techniques shown in Fig. 2.15.
 - ***2.17*** (Arithmetic, Smallest and Largest) Write an application that inputs three integers from the user and displays the sum, average, product, smallest and largest of the numbers. Use the techniques shown in Fig. 2.15. [Note: The calculation of the average in this exercise should result in an integer representation of the average. So, if the sum of the values is 7, the average should be 2, not 2.3333….]
