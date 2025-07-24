@@ -8,6 +8,7 @@ public class Sample {
   private int num1;
   private int num2;
 
+  // constructor. Order of the folling doesn't matter
   public Sample(int num1, int num2) {
     this.num1 = num1;
     this.num2 = num2;
@@ -29,4 +30,4 @@ public class Sample {
     this.num2 = num2;
   }
 
-}
+} // class
