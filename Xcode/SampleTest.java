@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 public class SampleTest {
-  public static void main(String[] args) {
+  public static void main(String[] args) { // can only be 1 static void main in the entire app
 
     Scanner input = new Scanner(System.in);
 
