@@ -13,6 +13,7 @@ public class Sample {
     this.num2 = num2;
   }
 
+  // getters: no parameters here, this merely call it up
   public int getNum1() {
     return this.num1;
   }
@@ -20,6 +21,7 @@ public class Sample {
     return this.num2;
   }
 
+  // setters: set parameters here
   public void setNum1(int num1) {
     this.num1 = num1;
   }
